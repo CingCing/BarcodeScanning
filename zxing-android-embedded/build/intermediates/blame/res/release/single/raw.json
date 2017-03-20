@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Tai Lieu\\BarcodeScannning\\zxing-android-embedded\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "E:\\Tai Lieu\\BarcodeScannning\\zxing-android-embedded\\res-orig\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\Tai Lieu\\zxing-android-embedded-master\\zxing-android-embedded\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "E:\\Tai Lieu\\zxing-android-embedded-master\\zxing-android-embedded\\res-orig\\raw\\zxing_beep.ogg"
+    }
+]
