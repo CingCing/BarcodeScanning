@@ -1,6 +1,7 @@
 # BarcodeScanning 
 - Ứng dụng không yêu cầu kết nối internet.
 - Ứng dụng sử dụng thư viện Zxing, dựa theo ZXing Android Embedded ( https://github.com/journeyapps/zxing-android-embedded ).
+- Hỗ trợ Android 4. trở lên.
 
 # License
 Licensed under the Apache License 2.0
